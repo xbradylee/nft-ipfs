@@ -40,7 +40,7 @@ To run:
 npm start
 ```
 
-## Minting an NFT
+## Minting a NFT
 
 ![image](https://github.com/bradylee123/nft-ipfs/blob/main/images/mint.png)
 
