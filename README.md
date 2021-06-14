@@ -4,7 +4,7 @@
 
 This application mints images into NFTs on the Ethereum blockchain, upload images to IPFS and display the images on the screen.
 
-### DEMO - 
+### DEMO - https://dazzling-khorana-ba5f95.netlify.app/
 
 - Connect to the site in Metamask via the Ropsten test network
 - Only admin is able to mint NFTs on the site
